@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="844.292 378.739 624.871 292.337" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="a">
+      <rect width="1721.02" height="672.03" transform="translate(-1.01 99.99)" fill="#fef3de"/>
+    </clipPath>
+    <filter id="b" x="806.243" y="362.497" width="702" height="702" filterUnits="userSpaceOnUse">
+      <feOffset dx="0.733" dy="20.987" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="c"/>
+      <feFlood flood-color="#665940" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="c"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 1.01, -99.989998)" clip-path="url(#a)">
+    <g transform="matrix(1, 0, 0, 1, -1.01, 99.99)" filter="url(#b)">
+      <circle cx="310.5" cy="310.5" r="310.5" transform="translate(846.01 382.01)" fill="#d7c49e"/>
+    </g>
+  </g>
+</svg>
